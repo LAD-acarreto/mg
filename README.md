@@ -1,4 +1,4 @@
-# Medias generalizadas
+# mg
 
 Herramienta para el análisis distributivo y la comparabilidad
 intertemporal del ingreso mediante medias generalizadas y
