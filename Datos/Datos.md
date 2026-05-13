@@ -18,7 +18,7 @@ La carpeta contiene cinco bases de datos en formato `.dta`:
 🔗 https://drive.google.com/drive/folders/1KG0dEKKYhSlDn37GeKSka-h0HhwcwZji?usp=sharing
 
 ### Series del INPC
-Las 12 series del INPC utilizadas en la construcción de los deflactores asociados al procedimiento de pobreza multidimensional del INEGI/CONEVAL se encuentran disponibles en formato IQY o csv. En el caso del archivo `.IQY`, este corresponde a la consulta estructurada empleada para recuperar las series desde el portal del INEGI mediante Microsoft Excel, mientras que el archivo `.csv` contiene una versión consolidada de las series descargadas.
+Las doce series del INPC utilizadas en la construcción de los 16 deflactores asociados al procedimiento de pobreza multidimensional del INEGI/CONEVAL se encuentran disponibles en formato IQY o csv. En el caso del archivo `.IQY`, este corresponde a la consulta estructurada empleada para recuperar las series desde el portal del INEGI mediante Microsoft Excel, mientras que el archivo `.csv` contiene una versión consolidada de las series descargadas.
 
 Esta carpeta  incluye:
 - `inpc_12_series.csv`
