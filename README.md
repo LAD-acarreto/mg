@@ -93,6 +93,7 @@ rubros y periodicidades de gasto:
 | 14 | Transporte (semestral) |
 | 15 | Transporte público urbano (semanal) |
 | 16 | Educación y esparcimiento (mensual) |
+Nota: Los deflactores se construyen a partir del INPC general y subíndices específicos mediante reglas de agregación temporal consistentes con el programa de cálculo del INEGI y la Nota Técnica 001 del CONEVAL.
 
    Los programas de cálculo oficiales se encuentran disponibles
    en los sitios web del INEGI y del CONEVAL junto con las
