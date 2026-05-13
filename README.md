@@ -34,3 +34,13 @@ R/
  └── bootstrap.R
 
 Datos/
+```
+
+Autor
+
+Alberto Carreto Nieto
+
+Proyecto LAD
+Laboratorio de Análisis Distributivo
+
+Abril de 2026
