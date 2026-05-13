@@ -62,7 +62,7 @@ Reconstrucción de deflactores y modificación del periodo de referencia.
    INPC disponibles en la carpeta `Datos`.
 
 2. Abrir el archivo `.csv` o el `.IQY` que contiene las doce series y
-   construir los doce deflactores con base en precios
+   construir los doce deflactores en una hoja de cálculo con base en precios
    constantes de agosto de 2022 o en cualquier otro periodo
    de referencia requerido.
 
@@ -73,7 +73,7 @@ Reconstrucción de deflactores y modificación del periodo de referencia.
 
    Los programas de cálculo oficiales se encuentran disponibles
    en los sitios web del INEGI y del CONEVAL junto con las
-   bases originales correspondientes.
+   bases originales correspondientes. No se proporcionan en este sitio.
 
 4. Abrir R y modificar en el script la ruta correspondiente
    a la carpeta que contiene las bases de datos descargadas.
