@@ -26,8 +26,9 @@ La carpeta también incluye:
 - `inpc_12_series.IQY`
 
 Estos archivos contienen las 12 series del INPC utilizadas en la construcción de los deflactores asociados al procedimiento de pobreza multidimensional del INEGI/CONEVAL.
-
 El archivo `.IQY` corresponde a la consulta estructurada empleada para recuperar las series desde el portal del INEGI mediante Microsoft Excel, mientras que el archivo `.csv` contiene una versión consolidada de las series descargadas.
+
+https://drive.google.com/drive/folders/11h09ARkm-spFPbuqS0GyvrO74gaN-pXh?usp=drive_link
 
 ### Notas
 - Estas bases corresponden a una transformación analítica de los microdatos originales.
