@@ -71,6 +71,29 @@ Reconstrucción de deflactores y modificación del periodo de referencia.
    y ejecutar los programas para obtener las bases de datos
    denominadas `pobreza`.
 
+Los programas de cálculo de pobreza multidimensional del
+INEGI/CONEVAL utilizan 16 deflactores asociados a distintos
+rubros y periodicidades de gasto:
+
+| Rubro | Serie para el programa de cálculo |
+|---|---|
+| — | INPC (mensual) |
+| — | INPC (semestral) |
+| 1.1 | Alimentos (semanal) |
+| 1.2 | Bebidas alcohólicas y tabaco (semanal) |
+| 2 | Vestido, calzado y accesorios (trimestral) |
+| 2.3 | Accesorios y cuidados del vestido (mensual) |
+| 2.3 | Accesorios y cuidados del vestido (trimestral) |
+| 3 | Viviendas (mensual) |
+| 4.1 | Muebles y aparatos domésticos (semestral) |
+| 4.2 | Accesorios y artículos de limpieza para el hogar (mensual) |
+| 4.2 | Accesorios y artículos de limpieza para el hogar (trimestral) |
+| 5.1 | Salud (trimestral) |
+| 6 | Transporte (mensual) |
+| 6 | Transporte (semestral) |
+| 6.1.1 | Transporte público urbano (semanal) |
+| 7 | Educación y esparcimiento (mensual) |
+
    Los programas de cálculo oficiales se encuentran disponibles
    en los sitios web del INEGI y del CONEVAL junto con las
    bases originales correspondientes. No se proporcionan en este sitio.
