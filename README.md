@@ -76,7 +76,6 @@ INEGI/CONEVAL utilizan 16 deflactores asociados a distintos
 rubros y periodicidades de gasto:
 
 | Numeral | Deflactor para el programa de cálculo |
-|---|---|
 | 1 | INPC (mensual) |
 | 2 | INPC (semestral) |
 | 3 | Alimentos (semanal) |
