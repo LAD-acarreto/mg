@@ -39,4 +39,6 @@ Datos/
 ## Autor
 Alberto Carreto Nieto
 
+---
+
 Abril de 2026
