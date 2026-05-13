@@ -61,7 +61,7 @@ Reconstrucción de deflactores y modificación del periodo de referencia.
 1. Descargar las cinco bases de datos y las 12 series del
    INPC disponibles en la carpeta `Datos`.
 
-2. Abrir el archivo `.csv` que contiene las doce series y
+2. Abrir el archivo `.csv` o el `.IQY` que contiene las doce series y
    construir los doce deflactores con base en precios
    constantes de agosto de 2022 o en cualquier otro periodo
    de referencia requerido.
