@@ -1,7 +1,4 @@
-# mg
-
-Módulo de medias generalizadas del proyecto  
-LAD (Laboratorio de Análisis Distributivo).
+# Medias generalizadas
 
 Herramienta para el análisis distributivo y la comparabilidad
 intertemporal del ingreso mediante medias generalizadas y
@@ -20,6 +17,11 @@ El repositorio incorpora procedimientos de deflactación
 consistente orientados a establecer un numerario común entre
 distintas ediciones de la Encuesta Nacional de Ingresos y
 Gastos de los Hogares (ENIGH).
+
+El diseño del script permite adaptar fácilmente los procedimientos
+de cálculo a otras encuestas de hogares, siempre que exista una
+variable monetaria de ingreso o gasto y un factor de expansión
+compatibles con la estructura general de las funciones implementadas.
 
 ---
 
