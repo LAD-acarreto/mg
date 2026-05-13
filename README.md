@@ -25,6 +25,13 @@ compatibles con la estructura general de las funciones implementadas.
 
 ---
 
+## Procedimiento
+
+1. Descargar las bases de datos contenidas en Datos
+2. 
+
+---
+
 ## Estructura del repositorio
 
 ```plaintext
