@@ -36,11 +36,6 @@ R/
 Datos/
 ```
 
-Autor
-
+## Autor
 Alberto Carreto Nieto
-
-Proyecto LAD
-Laboratorio de Análisis Distributivo
-
 Abril de 2026
