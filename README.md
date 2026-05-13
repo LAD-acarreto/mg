@@ -100,14 +100,13 @@ Datos/
 ```
 
 ## Bibliografía básica
-Deaton, A. y J. Muellbauer (1980).
-Economics and Consumer Behavior. Cambridge University Press.
-Fisher, I. (1922).
-The Making of Index Numbers. Houghton Mifflin.
-Foster, J. y M. Székely (2008).
-Is Economic Growth Good for the Poor? Asian Development Review,
-25(1-2), 1-28.
-
+- Deaton, A. y J. Muellbauer (1980).  
+  *Economics and Consumer Behavior.* Cambridge University Press.
+- Fisher, I. (1922).  
+  *The Making of Index Numbers.* Houghton Mifflin.
+- Foster, J. y M. Székely (2008).  
+  *Is Economic Growth Good for the Poor?* Asian Development Review,
+  25(1-2), 1-28.
 
 ## Autor
 Alberto Carreto Nieto
