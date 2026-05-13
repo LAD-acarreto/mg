@@ -75,7 +75,7 @@ Los programas de cálculo de pobreza multidimensional del
 INEGI/CONEVAL utilizan 16 deflactores asociados a distintos
 rubros y periodicidades de gasto:
 
-| Clasificación INPC | Deflactor para el programa de cálculo |
+| Numeral | Deflactor para el programa de cálculo |
 |---|---|
 | 1 | INPC (mensual) |
 | 2 | INPC (semestral) |
